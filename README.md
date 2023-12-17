@@ -30,6 +30,6 @@
 19. **euribor3m**: Euribor 3-month rate - daily indicator (Numeric).
 20. **nr.employed**: Number of employees - quarterly indicator (Numeric).
 
-### Output Variable
+### Output Variable (desired target):
 
-21. **y**: Has the client subscribed to a term deposit? (Binary: '1' - Yes, '0' - No)
+21. Has the client subscribed a term deposit? (binary: '1','0')
